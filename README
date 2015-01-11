@@ -20,6 +20,6 @@ OS              GNU/Linux operating system components including:
                 - U-Boot config & patches
                 - Staged ramdisk
                 - Red pitaya IP discovery client
-Test            Command line utilities (acquire, generate, ...).
+Test            Command line utilities (acquire, generate, ...).--
 shared          Common libraries and routines.
 
